@@ -1,1 +1,4 @@
-eroor.log
+*.pdf
+*.docx
+*.log
+/dir
